@@ -146,7 +146,36 @@
 经过我的对比发现，百度AI比较符合我的要求。百度AI果蔬识别API成熟度高于聚合数据，百度AI拥有示例代码，而聚合数据没有。且百度AI拥有自身的图库，因此我选择了百度AI。
 
 ### 使用后风险报告
+#### 百度AI之果蔬识别API和菜品识别API
+##### API市场竞争程度
+市场上的果蔬识别API和菜品识别API开放的平台比较多，因此百度AI的竞争对手是较多的。但百度AI的竞争优势在于他拥有自己的图库，且支持自定义菜品识别。菜品识别的准确度超过85%，在同类型的产品是相对较高的。因此在API市场竞争中优势较大。
 
+##### API输出输入限制
+请求限制：使用示例代码前，请记得替换其中的示例Token、图片地址或Base64信息。
+图片格式：jpg/png/bmp格式
+请求参数限制：图像数据，base64编码，要求base64编码后大小不超过4M，最短边至少15px，最长边最大4096px,支持jpg/png/bmp格式。注意：图片需要base64编码、去掉编码头（data:image/jpg;base64,）后，再进行urlencode。
+返回参数分析：百度AI的果蔬识别API和菜品识别API仅能识别只含有一种果蔬/菜品的图片。
+
+##### 定价
+图像识别下各个能力都具有免费调用额度，开通付费后，每日免费调用额度仍保留，固定次数免费额度用完后需付费使用，免费额度：菜品识别API免费调用额度为500次/日，果蔬识别为共3000次（不限天数）
+
+- 百度AI价格对比
+
+![百度AI价格对比.JPG](https://upload-images.jianshu.io/upload_images/9476218-1e06e9566cdd7b70.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 菜品识别价目表
+
+![菜品识别价目表.JPG](https://upload-images.jianshu.io/upload_images/9476218-1fb78660dbd1565e.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 果蔬识别价目表
+
+![果蔬识别价目表.JPG](https://upload-images.jianshu.io/upload_images/9476218-4df89dc47e31ddbb.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+##### 相关链接
+- [百度AI市场](https://aim.baidu.com/product/f7ee8543-ea10-457c-9183-1b9f2eddfcc3)
+- [百度AI图像识别文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Kk3bcxbxj)
+- [百度AI定价文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/rk3bcxa9e)
 
 ### 加分项
 使用了2个以上机器学习与人工智能API之输入输出
+
