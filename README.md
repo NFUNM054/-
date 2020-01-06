@@ -99,15 +99,16 @@
 ## 三、API 产品使用关键AI或机器学习之API的输出入展示 
 ### API使用水平
 #### 标准体重计算器API
-
+[查看标准体重计算器API之输入及输出](https://github.com/NFUNM054/final_project/blob/master/API%E6%B5%8B%E8%AF%95%E6%B0%B4%E5%B9%B3_%E6%A0%87%E5%87%86%E4%BD%93%E9%87%8D%E8%AE%A1%E7%AE%97%E5%99%A8API.md)
 
 #### 菜品识别API
-
+[查看菜品识别API之输入及输出](https://github.com/NFUNM054/final_project/blob/master/API%E6%B5%8B%E8%AF%95%E6%B0%B4%E5%B9%B3_%E8%8F%9C%E5%93%81%E8%AF%86%E5%88%ABAPI.md)
 
 #### 果蔬识别API
-
+[查看果蔬识别API之输入及输出](https://github.com/NFUNM054/final_project/blob/master/API%E6%B5%8B%E8%AF%95%E6%B0%B4%E5%B9%B3_%E6%9E%9C%E8%94%AC%E8%AF%86%E5%88%ABAPI.md)
 
 #### 营养成分表API
+[查看营养成分表API之输入及输出](https://github.com/NFUNM054/final_project/blob/master/API%E6%B5%8B%E8%AF%95%E6%B0%B4%E5%B9%B3_%E8%90%A5%E5%85%BB%E6%88%90%E5%88%86%E8%A1%A8API.md)
 
 ### 使用比较分析
 
