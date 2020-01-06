@@ -69,8 +69,17 @@
 ### 交互式及界面设计
 
 
+
 ### 信息设计
 
+#### 产品架构图
+![产品架构图.JPG](https://upload-images.jianshu.io/upload_images/9476218-3432d276e0da81c1.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### 产品核心功能架构图
+![产品核心功能架构图.JPG](https://upload-images.jianshu.io/upload_images/9476218-6d1bed9ad17334d7.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### 产品流程图
+![益起来APP流程图.jpg](https://upload-images.jianshu.io/upload_images/9476218-cbb56f1cf6eeedb3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 原型文档
 - [查看“益起来”原型](http://nfunm054.gitee.io/api_final_project/)
