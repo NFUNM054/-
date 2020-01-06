@@ -111,7 +111,15 @@
 [查看营养成分表API之输入及输出](https://github.com/NFUNM054/final_project/blob/master/API%E6%B5%8B%E8%AF%95%E6%B0%B4%E5%B9%B3_%E8%90%A5%E5%85%BB%E6%88%90%E5%88%86%E8%A1%A8API.md)
 
 ### 使用比较分析
+#### 标准体重计算器API
+- 以下为极速数据和APIShop的标准体重计算器API对比与检测，我目前仅找到这两家有标准体重计算器API接口。
 
+|   平台  |  功能   |  特性   |  返回结果   |  成熟度   |  性价比   |文档链接|
+| --- | --- | --- | --- | --- | --- | --- |
+|   极速数据  |标准体重计算器 |标准体重计算器、对照表，通过身高和体重来计算您的身材是否标准。国际比较权威的BMI指数计算。|bmi（BMI指数）、normbmi（正常BMI指数）、idealweight（理想体重）、level（水平）、danger（相关疾病发病的危险）、status（是否正常）|  ⭐⭐⭐⭐   |  高   |[极速数据文档](https://www.jisuapi.com/api/weight/)|
+| APIShop    |标准体重计算器 | 身体质量指数 (Body Mass Index, 简称BMI), 通过身高和体重来计算您的身材是否标准。| 标准体重、标准身高| ⭐⭐    |  低   |[APIShop文档](https://www.apishop.net/#/api/detail/?productID=104)|
+
+经过我的对比发现，极速数据的标准体重计算器API返回的数据相对较多，符合我这个APP所需要的要求。且示例代码相对符合我们所学的代码，因此我选择了极速数据下的体重计算器API。
 
 ### 使用后风险报告
 
