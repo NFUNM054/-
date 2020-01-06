@@ -67,8 +67,17 @@
 
 ## 二、原型
 ### 交互式及界面设计
+#### BMI指数
+![BMI指数_交互.JPG](https://upload-images.jianshu.io/upload_images/9476218-3c398eadfc162cd9.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 上图为在登录APP后，用户需先对自己的BMI指数进行测试，用户输入自己的性别、体重和身高，就会帮助用户计算出BMI指数。让用户可以判断自己的BMI指数是否低于或高于正常值（高于正常值则偏胖，低于正常值则偏瘦），以此对运动和饮食进行调整，以便减肥/塑身。该功能使用了天行数据里的标准体重计算器API。
 
+#### 菜品识别
+![菜品识别_交互.JPG](https://upload-images.jianshu.io/upload_images/9476218-c2f79e87cb43cf14.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 上图为用户通过拍照/上传可以识别出菜品的热量以及置信度。让用户可以更好的了解到他所食用的菜品的热量。该功能使用了百度AI图像识别中的菜品识别。
 
+#### 果蔬识别和营养成分表API 
+![果蔬识别_交互.JPG](https://upload-images.jianshu.io/upload_images/9476218-78869e4ce8ada57c.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 用户可以通过拍照/上传识别果蔬，然后查看果蔬里的营养成分来了解这个果蔬是否适合在减肥/塑身的时候食用。该功能使用了百度AI的果蔬识别API以及天行数据里的营养成分表API。
 
 ### 信息设计
 
