@@ -70,7 +70,7 @@
 
 
 ### 原型文档
-
+[下载“益起来”原型rp文档](https://github.com/NFUNM054/final_project/blob/master/API%E2%80%94%E2%80%94%E7%9B%8A%E8%B5%B7%E6%9D%A5%E5%8E%9F%E5%9E%8B.rp)
 
 ### 口头操作说明
 
