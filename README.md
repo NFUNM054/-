@@ -179,3 +179,8 @@
 ### 加分项
 使用了2个以上机器学习与人工智能API之输入输出
 
+### 所使用的API文档
+- [天行数据营养成分表API接口](https://www.tianapi.com/apiview/121)
+- [百度AI菜品识别API接口](https://ai.baidu.com/tech/imagerecognition/dish)
+- [百度AI果蔬识别API接口](https://ai.baidu.com/tech/imagerecognition/ingredient)
+- [极速数据标准体重计算器API接口](https://www.jisuapi.com/api/weight/)
