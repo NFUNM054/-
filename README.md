@@ -1,5 +1,7 @@
 # API_期末项目
 
+### [20×20产品介绍](https://gitee.com/NFUNM054/API_final_project/blob/master/%E7%9B%8A%E8%B5%B7%E6%9D%A5APP_%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D.pptx)
+
 | 史诗      | “益起来”APP |
 | ------------ | ------------- |
 | 发布日期     | 2019年12月    |
@@ -88,7 +90,7 @@
 
 ### 原型文档
 - [查看“益起来”原型](http://nfunm054.gitee.io/api_final_project/)
-- [下载“益起来”原型rp文档](https://github.com/NFUNM054/final_project/blob/master/API%E2%80%94%E2%80%94%E7%9B%8A%E8%B5%B7%E6%9D%A5%E5%8E%9F%E5%9E%8B.rp)
+- [下载“益起来”原型rp文档](https://gitee.com/NFUNM054/API_final_project/blob/master/API%E2%80%94%E2%80%94%E7%9B%8A%E8%B5%B7%E6%9D%A5%E5%8E%9F%E5%9E%8B.rp)
 
 ### 口头操作说明
 
